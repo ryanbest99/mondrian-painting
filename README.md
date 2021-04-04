@@ -25,7 +25,7 @@
 
 ---
 
-> Download or Clone the project and open index.html file or access directly [here](https://matcha-world.netlify.app/).
+> Download or Clone the project and open index.html file or access directly [here](https://mondrian-css-grid.netlify.app/).
 
 ---
 
