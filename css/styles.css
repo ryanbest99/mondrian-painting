@@ -1,3 +1,11 @@
+/* variables */
+:root {
+  --clr-white: #fff;
+  --clr-red: red;
+  --clr-blue: blue;
+  --clr-yellow: yellow;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -5,13 +13,31 @@
 }
 
 body {
+  background: cornsilk;
+  height: 100vh;
+}
+
+.box-container {
   border: 5px solid black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+h2 {
+  position: absolute;
+  bottom: 20%;
+  left: 56%;
 }
 
 .container {
-  border: 3px solid red;
+  border: 3px solid black;
+  width: 500px;
+  height: 500px;
 }
 
 .cell {
-  border: 3px solid blue;
+  border: 3px solid black;
 }
