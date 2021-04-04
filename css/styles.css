@@ -1,10 +1,21 @@
-/* variables */
+/* 
+===========
+variables 
+===========
+*/
+
 :root {
   --clr-white: #fff;
   --clr-red: red;
   --clr-blue: blue;
   --clr-yellow: yellow;
 }
+
+/*
+===========
+Global Settings 
+===========
+*/
 
 * {
   margin: 0;
@@ -16,6 +27,12 @@ body {
   background: cornsilk;
   height: 100vh;
 }
+
+/*
+===========
+Box Container Setting
+===========
+*/
 
 .box-container {
   /* border: 5px solid black; */
@@ -42,6 +59,12 @@ h3 {
 .cell {
   border: 3px solid black;
 }
+
+/*
+===========
+Media Query
+===========
+*/
 
 @media screen and (min-width: 700px) {
   .container {
