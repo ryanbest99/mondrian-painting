@@ -18,7 +18,7 @@ body {
 }
 
 .box-container {
-  border: 5px solid black;
+  /* border: 5px solid black; */
   height: 100vh;
   display: flex;
   justify-content: center;
