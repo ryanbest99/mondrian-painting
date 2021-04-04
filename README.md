@@ -12,7 +12,8 @@
 ### CSS Features
 
 - Responsive - Using Media Query
-  ![Alt text](./images/responsive-gif.gif)
+
+![Project Image](https://postfiles.pstatic.net/MjAyMTA0MDRfODMg/MDAxNjE3NTMxOTY5MjM1.CrcwQ30fe45gwb9VL8ttJk_UFtb4J2k5ISs-V0SYuQUg.FdLZmHFkWRusq0O3DMN1vuLFZWLagN83Ca45NZ6VACgg.GIF.qkralstntntn/reponsive-gif.gif?type=w773)
 
 ### Javascript Features
 
