@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  border: 5px solid black;
+}
+
+.container {
+  border: 3px solid red;
+}
+
+.cell {
+  border: 3px solid blue;
+}
