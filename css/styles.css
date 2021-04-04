@@ -56,6 +56,13 @@ h3 {
   right: 0;
 }
 
+span {
+  position: absolute;
+  font-weight: bold;
+  bottom: -3.5rem;
+  right: 0;
+}
+
 .cell {
   border: 3px solid black;
 }
